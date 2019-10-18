@@ -1,0 +1,7 @@
+{
+  "appId": "com.veremin.app",
+  "appName": "Veremin",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}

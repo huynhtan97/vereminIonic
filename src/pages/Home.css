@@ -1,0 +1,12 @@
+html, body, .ion-app, .ion-content {
+    background-color: transparent;
+}
+  
+
+.camera {
+    background: transparent;
+    color: red;
+    display: block;
+    resize: horizontal;
+    position: sticky;
+}

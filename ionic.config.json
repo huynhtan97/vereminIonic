@@ -1,5 +1,7 @@
 {
   "name": "vereminIonic",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
